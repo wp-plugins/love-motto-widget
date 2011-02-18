@@ -73,10 +73,10 @@ function love_motto_widget_render()
 
     echo '<div align="center">
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID="lovemottowidget" width="' . $options['width'] . '" height="' . $options['height'] . '">
-<param name="movie" value="' . get_bloginfo('url') . '/wp-content/plugins/lovemottowidget/lovemottowidget.swf' . ($branch != '' ? '?branch=' . $branch : '') . '">
+<param name="movie" value="' . get_bloginfo('url') . '/wp-content/plugins/love-motto-widget/lovemottowidget.swf' . ($branch != '' ? '?branch=' . $branch : '') . '">
 <param name="bgcolor" value="#FFFFFF">
 <param name="quality" value="high">
-<embed src="' . get_bloginfo('url') . '/wp-content/plugins/lovemottowidget/lovemottowidget.swf' . ($branch != '' ? '?branch=' . $branch : '') . '" 
+<embed src="' . get_bloginfo('url') . '/wp-content/plugins/love-motto-widget/lovemottowidget.swf' . ($branch != '' ? '?branch=' . $branch : '') . '" 
 quality="high"  
 bgcolor="#FFFFFF" 
 width="' . $options['width'] . '" 
