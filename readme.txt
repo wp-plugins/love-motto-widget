@@ -7,7 +7,7 @@ Stable tag: 1.7
 
 == Description ==
 
-Love Motto is a widget with nice design, which rotates love quotes and sayings. Show what love means to you simply placing this plugin on your blog/website. The widget is designed and developed by be2, an online dating and matchmeking website. 
+Love Motto is a widget with nice design, which rotates love quotes and sayings. Show what love means to you simply placing this plugin on your blog/website. The widget is designed and developed by be2, an online dating and matchmeking website: http://www.be2.com/be2/international.html
 
 == Installation ==
 
