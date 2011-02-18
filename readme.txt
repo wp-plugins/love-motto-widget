@@ -1,4 +1,5 @@
 === Plugin Name ===
+Plugin Name: Love Motto Widget
 Contributors: be2
 Tags: love motto,  love motto widget, love widget 
 Requires at least: 2.0.2 
